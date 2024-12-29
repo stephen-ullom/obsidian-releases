@@ -14635,5 +14635,12 @@
     "author": "wenlzhang",
     "description": "Maintain note links when splitting or reorganizing notes.",
     "repo": "wenlzhang/obsidian-link-maintainer"
-  }
+  },
+  {
+    "id": "bible-callout",
+    "name": "Bible Callout",
+    "author": "Stephen Ullom",
+    "description": "Callout Bible verses in Obsidian",
+    "repo": "stephen-ullom/obsidian-bible-callout"
+  },
 ]
